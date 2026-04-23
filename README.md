@@ -98,5 +98,5 @@ Built multiple academic & personal projects
 📧 Email: hudakhan30000@gmail.com
 
 ⭐️ From Huda Khan (She/Her)
-**Hudakhan27/Hudakhan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
