@@ -1,12 +1,12 @@
 👋 Hi, I'm Huda Khan
 
-💻 Backend Developer | MCA Student | Problem Solver
+💻 Backend Developer | MCA Candidate | Problem Solver
 
 Passionate about building scalable backend systems, REST APIs, and solving real-world problems using clean and efficient code. I enjoy working with Java, Spring Boot, Node.js, and databases, and I’m constantly learning new technologies to improve my development skills.
 
 🧠 About Me
 
-🎓 MCA Student (Computer Science)
+🎓 MCA'26 (Computer Science)
 
 🔥 Interested in Backend Development & Software Engineering
 
